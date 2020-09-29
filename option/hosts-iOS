@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 Sep 2020 14:48 UTC+7
-# Version: 2009221448
-# Blocked: 18,647 domains
+# Last modified: 25 Sep 2020 09:08 UTC+7
+# Version: 2009250908
+# Blocked: 18,707 domains
 # Minimal version for iOS. Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13213,6 +13213,39 @@
 0 bc.marfeel.com
 0 cosmos.marfeel.com
 0 marfeel.com
+0 ck.jads.co
+0 i.jads.co
+0 imgs.jads.co
+0 jads.co
+0 poweredby.jads.co
+0 redir.jads.co
+0 www.jads.co
+0 xapi.jads.co
+0 auxml.com
+0 cdn.auxml.com
+0 xml.auxml.com
+0 nice-prod.pro
+0 tracker.nice-prod.pro
+0 www.nice-prod.pro
+0 ei.imstks.com
+0 i.imstks.com
+0 imstks.com
+0 t.imstks.com
+0 www.imstks.com
+0 api.applogy.com
+0 applogy.com
+0 cn.applogy.com
+0 delivery.applogy.com
+0 ippsrvng.xyz
+0 go.ippsrvng.xyz
+0 api.clickaine.com
+0 api2.clickaine.com
+0 bcdn.clickaine.com
+0 cdn.clickaine.com
+0 clickaine.com
+0 promo.clickaine.com
+0 skim.clickaine.com
+0 vcdn.clickaine.com
 0 adtimaserver.vn
 0 api.adtimaserver.vn
 0 log.adtimaserver.vn
@@ -14452,6 +14485,7 @@
 0 bgadx.com
 0 boxpr.aiservice.vn
 0 cdn-ads.thesaigontimes.vn
+0 cdnasset.dantri.com.vn
 0 chiasephim.xyz
 0 click-ads.saoteen.net
 0 clipbongda.info
@@ -14607,7 +14641,6 @@
 0 tracker.tintucvietnam.vn
 0 tracking.appwifi.com
 0 tracking.dantri.com.vn
-0 tracking.meete.co
 0 tracking.vht.com.vn
 0 tracking.vietbao.vn
 0 tracking.vtcnew.com.vn
@@ -14627,6 +14660,7 @@
 0 quangcaotructuyen247.com
 0 rituationscardb.info
 0 sacchaeleduk.com
+0 smilitygorb.club
 0 www.fuckbookvietnam.com
 0 www.quangcaotructuyen247.com
 0 1-1ads.com
@@ -14665,10 +14699,13 @@
 0 absurdwater.com
 0 abz.com
 0 ac.rnm.ca
+0 acdcdn.com
 0 acento.com
+0 achcdn.com
 0 acidityfoamy.com
 0 aclickads.com
 0 acridtwist.com
+0 acscdn.com
 0 acsseo.com
 0 actionsplash.com
 0 actualdeals.com
@@ -15547,6 +15584,7 @@
 0 ah-ha.com
 0 ahalogy.com
 0 aheadday.com
+0 ahscdn.com
 0 aidu-ads.de
 0 ailalbapt.club
 0 ailpielei.com
@@ -15637,12 +15675,16 @@
 0 aromamirror.com
 0 as.webmd.com
 0 as5000.com
+0 asacdn.com
+0 asccdn.com
 0 asdnn1331.xyz
+0 ashcdn.com
 0 askaspalb.online
 0 asp.animelab.com
 0 aspboxant.club
 0 assets.purch.com
 0 assets1.exgfnetwork.com
+0 assuremath.com
 0 at-adserver.alltop.com
 0 athena-ads.wikia.com
 0 atlassolutions.com
@@ -16378,6 +16420,7 @@
 0 feed.engage.im
 0 feedbackresearch.com
 0 feedjit.com
+0 feverhappyjack.com
 0 fiksu.com
 0 fimc.net
 0 fimserve.com
@@ -16482,6 +16525,7 @@
 0 greetzebra.com
 0 greyinstrument.com
 0 greystripe.com
+0 grooksom.com
 0 groovinads.com
 0 groupm.com
 0 gscontxt.net
@@ -16643,6 +16687,7 @@
 0 inringtone.com
 0 insightexpress.com
 0 inskinmedia.com
+0 insomn.pro
 0 inspectorclick.com
 0 install.365-stream.com
 0 instantmadness.com
@@ -16658,6 +16703,7 @@
 0 internetfuel.com
 0 interreklame.de
 0 interstat.hu
+0 intnotif.club
 0 intowow.com
 0 inuvi.com
 0 inventionpassenger.com
@@ -16669,6 +16715,7 @@
 0 iqm.com
 0 ireklama.cz
 0 irncdn.com
+0 ismtampsshad.icu
 0 itfarm.com
 0 itnuzleafan.com
 0 itop.cz
@@ -16704,6 +16751,7 @@
 0 keymedia.hu
 0 keynotedeviceanywhere.com
 0 kindads.com
+0 kiolim.com
 0 kissmetrics.com
 0 kka20si.xyz
 0 kliks.nl
@@ -17107,6 +17155,7 @@
 0 onlinerewardcenter.com
 0 onlyadshere.info
 0 onmobile.com
+0 onstunkyr.com
 0 onvictinitor.com
 0 oodsotso.com
 0 open.oneplus.net
@@ -17134,6 +17183,7 @@
 0 ota.cartrawler.com
 0 otto-images.developershed.com
 0 oufauthy.net
+0 ouftukoo.net
 0 ousseventi.info
 0 out-there-media.com
 0 outtimburrtor.com
@@ -17311,6 +17361,7 @@
 0 protraffic.com
 0 provexia.com
 0 providentsopport.site
+0 prownl.com
 0 prsitecheck.com
 0 ps.ns-cdn.com
 0 ps7894.com
@@ -17471,6 +17522,7 @@
 0 rotumal.com
 0 roughexampler.info
 0 roughroll.com
+0 roujaufu.net
 0 routeserve.info
 0 roxr.net
 0 rsalcau.com
@@ -17669,6 +17721,7 @@
 0 starffa.com
 0 start.freeze.com
 0 startapp.com
+0 startsmajesty.com
 0 stat.cliche.se
 0 stat.dealtime.com
 0 stat.dyna.ultraweb.hu
@@ -17720,6 +17773,7 @@
 0 stripedburst.com
 0 strivesidewalk.com
 0 structurerod.com
+0 stumbledabetsuburb.com
 0 stupendoussleet.com
 0 sub2tech.com
 0 subscribe.hearstmags.com
@@ -17965,6 +18019,7 @@
 0 unarmedindustry.com
 0 undertone.com
 0 unknowntray.com
+0 unmortalloose.com
 0 unreshiramor.com
 0 untd.com
 0 unthem.com
@@ -18030,6 +18085,7 @@
 0 visitpath.com
 0 visual-pagerank.fr
 0 visualrevenue.com
+0 vkcdn.online
 0 vmmpxl.com
 0 vmweb.net
 0 voicevegetable.com
@@ -18085,6 +18141,7 @@
 0 wellmadefrog.com
 0 werbung.meteoxpress.com
 0 wetrack.it
+0 whaiweel.com
 0 whaleads.com
 0 whenu.com
 0 whereapps.com
@@ -18165,6 +18222,7 @@
 0 www.increaserev.com
 0 www.kaplanindex.com
 0 www.ketchapp.org
+0 www.kiolim.com
 0 www.lecap-services.fr
 0 www.lightboxcdn.com
 0 www.maxgid.com
@@ -18186,6 +18244,7 @@
 0 www.powerad.ai
 0 www.pro-ads.club
 0 www.propu.sh
+0 www.prownl.com
 0 www.push-notifications.top
 0 www.routeserve.info
 0 www.servsave.com
@@ -18195,6 +18254,7 @@
 0 www.trafyield.com
 0 www.tribedone.org
 0 www.trustaffs.com
+0 www.unmortalloose.com
 0 www.velocitycdn.com
 0 www.vidcpm.com
 0 www.webtrendslive.com

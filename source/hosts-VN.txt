@@ -71,6 +71,7 @@
 0.0.0.0 bgadx.com
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 cdn-ads.thesaigontimes.vn
+0.0.0.0 cdnasset.dantri.com.vn
 0.0.0.0 chiasephim.xyz
 0.0.0.0 click-ads.saoteen.net
 0.0.0.0 clipbongda.info
@@ -227,7 +228,6 @@
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.dantri.com.vn
-0.0.0.0 tracking.meete.co
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.vtcnew.com.vn
@@ -248,5 +248,6 @@
 0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
+0.0.0.0 smilitygorb.club
 0.0.0.0 www.fuckbookvietnam.com
 0.0.0.0 www.quangcaotructuyen247.com

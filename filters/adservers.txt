@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Sep 2020 14:48 UTC+7
-! Version: 2009221448
-! Blocked: 512 rules
+! Last modified: 25 Sep 2020 09:08 UTC+7
+! Version: 2009250908
+! Blocked: 514 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -223,6 +223,7 @@
 ||bgadx.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
 ||clipbongda.info^
@@ -364,7 +365,6 @@
 ||tracker.tintucvietnam.vn^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
-||tracking.meete.co^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtcnew.com.vn^
@@ -467,6 +467,7 @@
 ||r88.vn^
 ||red88.com^
 ||ric.win^
+||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
 ||sun.win^
@@ -518,3 +519,4 @@
 ||quangcaotructuyen247.com^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||smilitygorb.club^

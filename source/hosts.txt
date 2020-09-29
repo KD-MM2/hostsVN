@@ -35,10 +35,13 @@
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
+0.0.0.0 acdcdn.com
 0.0.0.0 acento.com
+0.0.0.0 achcdn.com
 0.0.0.0 acidityfoamy.com
 0.0.0.0 aclickads.com
 0.0.0.0 acridtwist.com
+0.0.0.0 acscdn.com
 0.0.0.0 acsseo.com
 0.0.0.0 actionsplash.com
 0.0.0.0 actualdeals.com
@@ -917,6 +920,7 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
+0.0.0.0 ahscdn.com
 0.0.0.0 aidu-ads.de
 0.0.0.0 ailalbapt.club
 0.0.0.0 ailpielei.com
@@ -1007,12 +1011,16 @@
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as5000.com
+0.0.0.0 asacdn.com
+0.0.0.0 asccdn.com
 0.0.0.0 asdnn1331.xyz
+0.0.0.0 ashcdn.com
 0.0.0.0 askaspalb.online
 0.0.0.0 asp.animelab.com
 0.0.0.0 aspboxant.club
 0.0.0.0 assets.purch.com
 0.0.0.0 assets1.exgfnetwork.com
+0.0.0.0 assuremath.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atlassolutions.com
@@ -1748,6 +1756,7 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
+0.0.0.0 feverhappyjack.com
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
@@ -1852,6 +1861,7 @@
 0.0.0.0 greetzebra.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 greystripe.com
+0.0.0.0 grooksom.com
 0.0.0.0 groovinads.com
 0.0.0.0 groupm.com
 0.0.0.0 gscontxt.net
@@ -2013,6 +2023,7 @@
 0.0.0.0 inringtone.com
 0.0.0.0 insightexpress.com
 0.0.0.0 inskinmedia.com
+0.0.0.0 insomn.pro
 0.0.0.0 inspectorclick.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 instantmadness.com
@@ -2028,6 +2039,7 @@
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
 0.0.0.0 interstat.hu
+0.0.0.0 intnotif.club
 0.0.0.0 intowow.com
 0.0.0.0 inuvi.com
 0.0.0.0 inventionpassenger.com
@@ -2039,6 +2051,7 @@
 0.0.0.0 iqm.com
 0.0.0.0 ireklama.cz
 0.0.0.0 irncdn.com
+0.0.0.0 ismtampsshad.icu
 0.0.0.0 itfarm.com
 0.0.0.0 itnuzleafan.com
 0.0.0.0 itop.cz
@@ -2074,6 +2087,7 @@
 0.0.0.0 keymedia.hu
 0.0.0.0 keynotedeviceanywhere.com
 0.0.0.0 kindads.com
+0.0.0.0 kiolim.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kka20si.xyz
 0.0.0.0 kliks.nl
@@ -2477,6 +2491,7 @@
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onlyadshere.info
 0.0.0.0 onmobile.com
+0.0.0.0 onstunkyr.com
 0.0.0.0 onvictinitor.com
 0.0.0.0 oodsotso.com
 0.0.0.0 open.oneplus.net
@@ -2504,6 +2519,7 @@
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 oufauthy.net
+0.0.0.0 ouftukoo.net
 0.0.0.0 ousseventi.info
 0.0.0.0 out-there-media.com
 0.0.0.0 outtimburrtor.com
@@ -2681,6 +2697,7 @@
 0.0.0.0 protraffic.com
 0.0.0.0 provexia.com
 0.0.0.0 providentsopport.site
+0.0.0.0 prownl.com
 0.0.0.0 prsitecheck.com
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 ps7894.com
@@ -2841,6 +2858,7 @@
 0.0.0.0 rotumal.com
 0.0.0.0 roughexampler.info
 0.0.0.0 roughroll.com
+0.0.0.0 roujaufu.net
 0.0.0.0 routeserve.info
 0.0.0.0 roxr.net
 0.0.0.0 rsalcau.com
@@ -3039,6 +3057,7 @@
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com
 0.0.0.0 startapp.com
+0.0.0.0 startsmajesty.com
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
@@ -3090,6 +3109,7 @@
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 structurerod.com
+0.0.0.0 stumbledabetsuburb.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subscribe.hearstmags.com
@@ -3335,6 +3355,7 @@
 0.0.0.0 unarmedindustry.com
 0.0.0.0 undertone.com
 0.0.0.0 unknowntray.com
+0.0.0.0 unmortalloose.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 untd.com
 0.0.0.0 unthem.com
@@ -3400,6 +3421,7 @@
 0.0.0.0 visitpath.com
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
+0.0.0.0 vkcdn.online
 0.0.0.0 vmmpxl.com
 0.0.0.0 vmweb.net
 0.0.0.0 voicevegetable.com
@@ -3455,6 +3477,7 @@
 0.0.0.0 wellmadefrog.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
+0.0.0.0 whaiweel.com
 0.0.0.0 whaleads.com
 0.0.0.0 whenu.com
 0.0.0.0 whereapps.com
@@ -3535,6 +3558,7 @@
 0.0.0.0 www.increaserev.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.ketchapp.org
+0.0.0.0 www.kiolim.com
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.maxgid.com
@@ -3556,6 +3580,7 @@
 0.0.0.0 www.powerad.ai
 0.0.0.0 www.pro-ads.club
 0.0.0.0 www.propu.sh
+0.0.0.0 www.prownl.com
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.routeserve.info
 0.0.0.0 www.servsave.com
@@ -3565,6 +3590,7 @@
 0.0.0.0 www.trafyield.com
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
+0.0.0.0 www.unmortalloose.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 www.webtrendslive.com

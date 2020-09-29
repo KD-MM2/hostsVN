@@ -13197,6 +13197,39 @@ altb.marfeel.com
 bc.marfeel.com
 cosmos.marfeel.com
 marfeel.com
+ck.jads.co
+i.jads.co
+imgs.jads.co
+jads.co
+poweredby.jads.co
+redir.jads.co
+www.jads.co
+xapi.jads.co
+auxml.com
+cdn.auxml.com
+xml.auxml.com
+nice-prod.pro
+tracker.nice-prod.pro
+www.nice-prod.pro
+ei.imstks.com
+i.imstks.com
+imstks.com
+t.imstks.com
+www.imstks.com
+api.applogy.com
+applogy.com
+cn.applogy.com
+delivery.applogy.com
+ippsrvng.xyz
+go.ippsrvng.xyz
+api.clickaine.com
+api2.clickaine.com
+bcdn.clickaine.com
+cdn.clickaine.com
+clickaine.com
+promo.clickaine.com
+skim.clickaine.com
+vcdn.clickaine.com
 adtimaserver.vn
 api.adtimaserver.vn
 log.adtimaserver.vn
@@ -14436,6 +14469,7 @@ banner.vietnamfinance.vn
 bgadx.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
+cdnasset.dantri.com.vn
 chiasephim.xyz
 click-ads.saoteen.net
 clipbongda.info
@@ -14591,7 +14625,6 @@ tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.dantri.com.vn
-tracking.meete.co
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vtcnew.com.vn
@@ -14611,6 +14644,7 @@ hashearog.com
 quangcaotructuyen247.com
 rituationscardb.info
 sacchaeleduk.com
+smilitygorb.club
 www.fuckbookvietnam.com
 www.quangcaotructuyen247.com
 1-1ads.com
@@ -14649,10 +14683,13 @@ absorbingband.com
 absurdwater.com
 abz.com
 ac.rnm.ca
+acdcdn.com
 acento.com
+achcdn.com
 acidityfoamy.com
 aclickads.com
 acridtwist.com
+acscdn.com
 acsseo.com
 actionsplash.com
 actualdeals.com
@@ -15531,6 +15568,7 @@ agroupadx.com
 ah-ha.com
 ahalogy.com
 aheadday.com
+ahscdn.com
 aidu-ads.de
 ailalbapt.club
 ailpielei.com
@@ -15621,12 +15659,16 @@ argyresthia.com
 aromamirror.com
 as.webmd.com
 as5000.com
+asacdn.com
+asccdn.com
 asdnn1331.xyz
+ashcdn.com
 askaspalb.online
 asp.animelab.com
 aspboxant.club
 assets.purch.com
 assets1.exgfnetwork.com
+assuremath.com
 at-adserver.alltop.com
 athena-ads.wikia.com
 atlassolutions.com
@@ -16362,6 +16404,7 @@ feebleshock.com
 feed.engage.im
 feedbackresearch.com
 feedjit.com
+feverhappyjack.com
 fiksu.com
 fimc.net
 fimserve.com
@@ -16466,6 +16509,7 @@ green.erne.co
 greetzebra.com
 greyinstrument.com
 greystripe.com
+grooksom.com
 groovinads.com
 groupm.com
 gscontxt.net
@@ -16627,6 +16671,7 @@ inquisitiveinvention.com
 inringtone.com
 insightexpress.com
 inskinmedia.com
+insomn.pro
 inspectorclick.com
 install.365-stream.com
 instantmadness.com
@@ -16642,6 +16687,7 @@ intergi.com
 internetfuel.com
 interreklame.de
 interstat.hu
+intnotif.club
 intowow.com
 inuvi.com
 inventionpassenger.com
@@ -16653,6 +16699,7 @@ ipromote.com
 iqm.com
 ireklama.cz
 irncdn.com
+ismtampsshad.icu
 itfarm.com
 itnuzleafan.com
 itop.cz
@@ -16688,6 +16735,7 @@ ketchapp.org
 keymedia.hu
 keynotedeviceanywhere.com
 kindads.com
+kiolim.com
 kissmetrics.com
 kka20si.xyz
 kliks.nl
@@ -17091,6 +17139,7 @@ onlinecashmethod.com
 onlinerewardcenter.com
 onlyadshere.info
 onmobile.com
+onstunkyr.com
 onvictinitor.com
 oodsotso.com
 open.oneplus.net
@@ -17118,6 +17167,7 @@ ortshk.tapas.net
 ota.cartrawler.com
 otto-images.developershed.com
 oufauthy.net
+ouftukoo.net
 ousseventi.info
 out-there-media.com
 outtimburrtor.com
@@ -17295,6 +17345,7 @@ proton-tm.com
 protraffic.com
 provexia.com
 providentsopport.site
+prownl.com
 prsitecheck.com
 ps.ns-cdn.com
 ps7894.com
@@ -17455,6 +17506,7 @@ rotabanner.com
 rotumal.com
 roughexampler.info
 roughroll.com
+roujaufu.net
 routeserve.info
 roxr.net
 rsalcau.com
@@ -17653,6 +17705,7 @@ star-advertising.com
 starffa.com
 start.freeze.com
 startapp.com
+startsmajesty.com
 stat.cliche.se
 stat.dealtime.com
 stat.dyna.ultraweb.hu
@@ -17704,6 +17757,7 @@ strikeiron.com
 stripedburst.com
 strivesidewalk.com
 structurerod.com
+stumbledabetsuburb.com
 stupendoussleet.com
 sub2tech.com
 subscribe.hearstmags.com
@@ -17949,6 +18003,7 @@ unanimis.co.uk
 unarmedindustry.com
 undertone.com
 unknowntray.com
+unmortalloose.com
 unreshiramor.com
 untd.com
 unthem.com
@@ -18014,6 +18069,7 @@ visitbox.de
 visitpath.com
 visual-pagerank.fr
 visualrevenue.com
+vkcdn.online
 vmmpxl.com
 vmweb.net
 voicevegetable.com
@@ -18069,6 +18125,7 @@ wegcash.com
 wellmadefrog.com
 werbung.meteoxpress.com
 wetrack.it
+whaiweel.com
 whaleads.com
 whenu.com
 whereapps.com
@@ -18149,6 +18206,7 @@ www.hkoxlirf.com
 www.increaserev.com
 www.kaplanindex.com
 www.ketchapp.org
+www.kiolim.com
 www.lecap-services.fr
 www.lightboxcdn.com
 www.maxgid.com
@@ -18170,6 +18228,7 @@ www.photo-ads.co.uk
 www.powerad.ai
 www.pro-ads.club
 www.propu.sh
+www.prownl.com
 www.push-notifications.top
 www.routeserve.info
 www.servsave.com
@@ -18179,6 +18238,7 @@ www.theweblocker.net
 www.trafyield.com
 www.tribedone.org
 www.trustaffs.com
+www.unmortalloose.com
 www.velocitycdn.com
 www.vidcpm.com
 www.webtrendslive.com

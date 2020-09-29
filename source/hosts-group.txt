@@ -13953,3 +13953,43 @@
 0.0.0.0 bc.marfeel.com
 0.0.0.0 cosmos.marfeel.com
 0.0.0.0 marfeel.com
+#[jads.co]
+0.0.0.0 ck.jads.co
+0.0.0.0 i.jads.co
+0.0.0.0 imgs.jads.co
+0.0.0.0 jads.co
+0.0.0.0 poweredby.jads.co
+0.0.0.0 redir.jads.co
+0.0.0.0 www.jads.co
+0.0.0.0 xapi.jads.co
+#[auxml.com]
+0.0.0.0 auxml.com
+0.0.0.0 cdn.auxml.com
+0.0.0.0 xml.auxml.com
+#[nice-prod.pro]
+0.0.0.0 nice-prod.pro
+0.0.0.0 tracker.nice-prod.pro
+0.0.0.0 www.nice-prod.pro
+#[imstks.com]
+0.0.0.0 ei.imstks.com
+0.0.0.0 i.imstks.com
+0.0.0.0 imstks.com
+0.0.0.0 t.imstks.com
+0.0.0.0 www.imstks.com
+#[applogy.com]
+0.0.0.0 api.applogy.com
+0.0.0.0 applogy.com
+0.0.0.0 cn.applogy.com
+0.0.0.0 delivery.applogy.com
+#[ippsrvng.xyz]
+0.0.0.0 ippsrvng.xyz
+0.0.0.0 go.ippsrvng.xyz
+#[clickaine.com]
+0.0.0.0 api.clickaine.com
+0.0.0.0 api2.clickaine.com
+0.0.0.0 bcdn.clickaine.com
+0.0.0.0 cdn.clickaine.com
+0.0.0.0 clickaine.com
+0.0.0.0 promo.clickaine.com
+0.0.0.0 skim.clickaine.com
+0.0.0.0 vcdn.clickaine.com

@@ -222,6 +222,7 @@ banner.vietnamfinance.vn
 bgadx.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
+cdnasset.dantri.com.vn
 chiasephim.xyz
 click-ads.saoteen.net
 clipbongda.info
@@ -366,7 +367,6 @@ tracker.phunuvagiadinh.vn
 tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.dantri.com.vn
-tracking.meete.co
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vtcnew.com.vn
@@ -472,6 +472,7 @@ playv8.com
 r88.vn
 red88.com
 ric.win
+rio66qc.club
 sbc31.com
 sieubomtan.com
 sun.win
@@ -526,3 +527,4 @@ hashearog.com
 quangcaotructuyen247.com
 rituationscardb.info
 sacchaeleduk.com
+smilitygorb.club

@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 22 Sep 2020 14:48 UTC+7
-# Version: 2009221448
-# Blocked: 2,607 domains
+# Last modified: 25 Sep 2020 09:08 UTC+7
+# Version: 2009250908
+# Blocked: 2,608 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -460,6 +460,7 @@
 0.0.0.0 x8vn.com
 0.0.0.0 qc.x8vn.com
 0.0.0.0 play.x8vn.com
+0.0.0.0 rio66qc.club
 # --- Block other gameblingVN ---
 0.0.0.0 027copy.com
 0.0.0.0 www.027copy.com
